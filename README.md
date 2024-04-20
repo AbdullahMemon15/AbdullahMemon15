@@ -1,4 +1,4 @@
-<p align="left">👨‍💻 I am a Front-End Developer based in  Canada<br>🎨 I specialize in creating beautiful and efficient user interfaces<br>🌐 You can see some of my work at my protfolio website<br>📚 I am always learning about new front-end technologies and design trends and currently pursuin the meta front end developer certification<br>🤝 I’m looking to collaborate on open source projects and innovative web apps<br>📫you can reach me by email<br>Abdullahakhund15@gmail.com<br>✨ Fun fact: I love learning about innovation in technology and i knew about chatGPT when it was called GPT-3</p>
+<p align="left">👨‍💻 I am a Front-End Developer based in  Canada<br>🎨 I specialize in creating beautiful and efficient user interfaces<br>🌐 You can see some of my work at my portfolio website<br>📚 I am always learning about new front-end technologies and design trends and currently pursuing the meta front end developer certification<br>🤝 I’m looking to collaborate on open source projects and innovative web apps<br>📫you can reach me by email<br>Abdullahakhund15@gmail.com<br>✨ Fun fact: I love learning about innovation in technology and I knew about chatGPT when it was called GPT-3</p>
 
 ###
 
@@ -47,7 +47,7 @@
   <a href="www.linkedin.com/in/abdullah-memon-wd" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="abdullahakhund15@gmail.com" target="_blank">
+<a href="mailto:abdullahakhund15@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
