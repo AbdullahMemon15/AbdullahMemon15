@@ -32,13 +32,8 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/abdullahmemon15/abdullahmemon15/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img height="200" src="https://i.im.ge/2024/04/21/ZaFRqK.New-file-2.gif"  />
+  <img height="200" src="https://i.im.ge/2024/04/21/ZaFRqK.New-file-2.gif" alt="Abdullah's gif" />
 </div>
 
 ###
