@@ -1,3 +1,4 @@
+
 <p align="left">👨‍💻 I am a Front-End Developer based in  Canada<br>🎨 I specialize in creating beautiful and efficient user interfaces<br>🌐 You can see some of my work at my portfolio website<br>📚 I am always learning about new front-end technologies and design trends and currently pursuing the meta front end developer certification<br>🤝 I’m looking to collaborate on open source projects and innovative web apps<br>📫you can reach me by email<br>Abdullahakhund15@gmail.com<br>✨ Fun fact: I love learning about innovation in technology and I knew about chatGPT when it was called GPT-3</p>
 
 ###
@@ -33,9 +34,8 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://i.im.ge/2024/04/21/ZaFRqK.New-file-2.gif" alt="Abdullah's gif" />
+  <img height="200" src="https://raw.githubusercontent.com/abdullahmemon15/abdullahmemon15/main/profile.gif" alt="Abdullah's gif" />
 </div>
-
 
 ###
 
