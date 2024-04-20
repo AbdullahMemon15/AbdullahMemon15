@@ -33,7 +33,7 @@
 </div>
 
 ###
-<div align="center">
+<div align="right">
   <img height="200" src="https://raw.githubusercontent.com/abdullahmemon15/abdullahmemon15/main/profile.gif" alt="Abdullah's gif" />
 </div>
 
