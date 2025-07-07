@@ -1,7 +1,15 @@
 
-<h3 align="left">👨‍💻 I am a Front-End Developer based in  Canada<br>🎨 I specialize in creating beautiful and efficient user interfaces<br>🌐 You can see some of my work at my portfolio website<br>📚 I am always learning about new front-end technologies and design trends and currently pursuing the meta front end developer certification<br>🤝 I’m looking to collaborate on open source projects and innovative web apps<br>📫you can reach me by email<br>Abdullahakhund15@gmail.com<br>✨ Fun fact: I love learning about innovation in technology and I knew about chatGPT when it was called GPT-3</h3>
+<h1 align="center">Hey, I'm Abdullah — Aspiring Azure DevOps Engineer ☁️</h1>
+<p align="center"><strong>Automating cloud infrastructure, pipelines & observability on Microsoft Azure</strong></p>
 
-###
+---
+
+### ⚡ Snapshot
+- 🇨🇦 Coquitlam, BC, Canada  
+- ☁️ **Azure-first** builder: IaC (Bicep & Terraform), GitOps (GitHub Actions), Containers (Docker & AKS), Monitoring (Azure Monitor + Log Analytics)  
+- 📜 **Certifications:** AZ-900 • AZ-104 | <em>In progress:</em> AZ-400 • Terraform Associate • Linux+  
+- 🔨 **Currently building:** Smart Incident-Triage ChatOps Bot (Azure Functions + OpenAI)  
+- 🚀 **2025 mission:** land a junior DevOps / Cloud Engineer role and cut MTTR for a real-world team  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahmemon15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
